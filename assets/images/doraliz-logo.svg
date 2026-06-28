@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style type="text/css"><![CDATA[
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Montserrat:wght@400;500&display=swap');
+      .wordmark {
+        font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, serif;
+        font-weight: 500;
+        font-size: 130px;
+        letter-spacing: 3px;
+        fill: #a07636;
+      }
+      .tagline {
+        font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+        font-weight: 400;
+        font-size: 28px;
+        letter-spacing: 4px;
+        fill: #a07636;
+      }
+    ]]></style>
+  </defs>
+
+  <!-- DORALIZ -->
+  <text class="wordmark" x="320" y="145" text-anchor="middle">DORALIZ</text>
+
+  <!-- tagline -->
+  <text class="tagline" x="320" y="200" text-anchor="middle">SEU BRILHO, SUA ESSÊNCIA</text>
+</svg>
